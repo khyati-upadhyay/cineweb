@@ -1,0 +1,12 @@
+export { Carousel } from "./carousel";
+export { CircleRating } from "./circleRating";
+export { ContentWrapper } from "./contentWrapper";
+export { Footer } from "./footer";
+export { Genres } from "./genres";
+export { Header } from "./header";
+export { Img } from "./lazyLoadImage";
+export { MovieCard } from "./movieCard";
+export { PlayIcon } from "./playIcon";
+export { Spinner } from "./spinner";
+export { SwitchTabs } from "./switchTabs";
+export { VideoPopup } from "./videoPopup";
